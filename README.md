@@ -1,4 +1,4 @@
-# MultiApp
+# MultiApp Abde
 
 ![](https://img.shields.io/badge/license-AGPL3.0-brightgreen.svg?style=flat)
 ![](https://img.shields.io/badge/Android-6.0%20--%2013-blue.svg?style=flat)
@@ -408,3 +408,4 @@ Email: cocos_sh@sina.com
 13.fix paltalk crash
 
 14.support Application lifecycle callback(HackApi.registerApplicationCallback)
+
