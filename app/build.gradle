@@ -9,10 +9,10 @@ android {
     defaultConfig {
         if (rootProject.ext.isMasterPkg) {
             applicationId rootProject.ext.masterPkg
-            manifestPlaceholders = [label: "Waxmoon"]
+            manifestPlaceholders = [label: "abde"]
         } else {
             applicationId rootProject.ext.assistPkg
-            manifestPlaceholders = [label: "Waxmoon32"]
+            manifestPlaceholders = [label: "abde32"]
             ndk.abiFilters 'armeabi-v7a'
         }
         minSdk rootProject.ext.minSdkVersion
